@@ -1,16 +1,24 @@
 # 55five
-Cara install:
-apt update &amp;&amp; apt upgrade
+Cara install ketik:
 
-pkg install python
+apt purge game repo -y (Enter)
 
-pkg install pip
+apt upgrade (Enter)
 
-pip install requests
+pkg install python (Enter)
 
-pkg install git
+pip install --upgrade pip (Enter)
 
-git clone https://github.com/4ndrii/55five
-cd 55five
+pip install requests (Enter)
 
-python 55.py
+pip install prettytable (Enter)
+
+pkg install git (Enter)
+
+git clone https://github.com/4ndrii/55five (Enter)
+
+cd 55five (Enter)
+
+python 55.py (Enter)
+
+Jika script Kedaluarsa Hubungi t.me/abahzeus
