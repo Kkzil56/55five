@@ -13,12 +13,14 @@ pip install requests (Enter)
 
 pip install prettytable (Enter)
 
+pip install termcolor
+
 pkg install git (Enter)
 
 git clone https://github.com/4ndrii/55five (Enter)
 
 cd 55five (Enter)
 
-python 55.py (Enter)
+python main.py (Enter)
 
 Jika script Kedaluarsa Hubungi t.me/abahzeus
